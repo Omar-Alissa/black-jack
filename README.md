@@ -3,11 +3,9 @@
 Det här projektet är ett Black Jack-spel som körs i konsolen. Spelaren spelar mot en dealer enligt grundläggande Black Jack-regler. Spelet är uppdelat i flera klasser, till exempel Kort, Kortlek, Person, Spelare och Dealer.
 
 ## Gruppmedlemmar
-- [Hassan] (Dealer)
-- [Omar] (Spelare)
-- [Omar] (Person)
-- [Bilal] (Kort)
-- [Bilal] (Kortlek)
+- [Hassan]
+- [Omar]
+- [Bilal]
 
 ## Instruktioner för att köra projektet
 1. Klona repot med git clone
