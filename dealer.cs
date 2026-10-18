@@ -9,12 +9,11 @@ namespace black_jack
         public void SpelaTur(Kortlek kortlek)
         {
             // dealern drar kort tills handvärdet är minst 17
-            while (BeräknaHandvärde() < 17)
+            while (RäknaPoäng() < 17)
             {
-                Hit(kortlek);
+                LäggTillKort(kortlek.DraKort());
             }
 
-            Stanna();
         }
     }
 }
